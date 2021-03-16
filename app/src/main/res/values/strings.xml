@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Okhttp</string>
+    <string name="loading_joke_message">loading_joke_message</string>
+</resources>
